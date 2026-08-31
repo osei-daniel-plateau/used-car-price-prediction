@@ -4,7 +4,7 @@ A regression project that predicts used car prices from listing data, comparing 
 machine learning algorithms end-to-end: data cleaning, feature engineering,
 hyperparameter tuning, evaluation, and interpretation.
 
-**Author:** Daniel Osei · Student ID: · Module: CIS4057-N
+**Author:** Daniel Osei 
 
 ## Overview
 
